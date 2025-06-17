@@ -2,7 +2,6 @@ The Garbage Collector (GC) in JavaScript is a built-in feature that handles memo
 longer being used, which helps keep applications running efficiently and prevents memory-related issues.
 
 --Algorithm Behind Garbage Collector--
-
 The Mark-and-Sweep Garbage Collection alogorithm helps manage memory by identifying and removing unused objects in JavaScript.
 This code simulates the process where objects are marked as reachable and then swept away if they are no longer needed.
 
